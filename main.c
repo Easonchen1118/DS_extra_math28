@@ -1,5 +1,5 @@
 #include <stdio.h>
-//計算1到N之間屬於5和7的倍數
+//計算1到N之間屬於5和7的倍數https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6933
 int main(){
     int inpt ;
     int first = 1;
